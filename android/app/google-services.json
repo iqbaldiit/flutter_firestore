@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "692170710247",
+    "firebase_url": "https://drivingtheorytest6in1-default-rtdb.firebaseio.com",
+    "project_id": "drivingtheorytest6in1",
+    "storage_bucket": "drivingtheorytest6in1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692170710247:android:6d096ac7e1a2c6192b5642",
+        "android_client_info": {
+          "package_name": "com.gangoffour.drivingtheorytest6in1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692170710247-hq059ec7tf0dppr33sp215srk9pl44q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gangoffour.drivingtheorytest6in1",
+            "certificate_hash": "d8be9fead1d1dd0486e4047447a620da5a84b431"
+          }
+        },
+        {
+          "client_id": "692170710247-29i6t5stk6vn4q91b4k31o2ko1bj08n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI9Mahuzm6eF_8rzRgGvAL4UKCgK3ueMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692170710247-29i6t5stk6vn4q91b4k31o2ko1bj08n1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692170710247-v043o7fsiljnd928oh1sl5g667bptu1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gangoffour.drivingtheorytest6in1",
+                "app_store_id": "1553667701"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692170710247:android:dd66a92058aeff712b5642",
+        "android_client_info": {
+          "package_name": "com.gangoffour.pet_medical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692170710247-29i6t5stk6vn4q91b4k31o2ko1bj08n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI9Mahuzm6eF_8rzRgGvAL4UKCgK3ueMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692170710247-29i6t5stk6vn4q91b4k31o2ko1bj08n1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692170710247-v043o7fsiljnd928oh1sl5g667bptu1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gangoffour.drivingtheorytest6in1",
+                "app_store_id": "1553667701"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

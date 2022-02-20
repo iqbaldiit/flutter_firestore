@@ -3,6 +3,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 import 'home_list.dart';
+import 'adi_list.dart';
 
 Future<void> main() async {
   // TODO Initialize the Firebase App
@@ -25,6 +26,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: const HomeList());
+        //home: const HomeList());
+        home: const AdiList());
   }
 }

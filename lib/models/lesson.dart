@@ -30,15 +30,15 @@ class Lesson {
 // 1
 Lesson _lessonFromJson(Map<String, dynamic> json) {
   return Lesson(
-    json['lesson'] as String,
-    lessonDate: (json['lesson_date'] as Timestamp).toDate(),
+    json['lesson_type'] as String,
+    lessonDate: (json['lesson_date'] as DateTime),
     duration: json['duration'] as int,
   );
 }
 
 // 2
 Map<String, dynamic> _lessonToJson(Lesson instance) => <String, dynamic>{
-      'lesson': instance.lesson,
+      'lesson_type': instance.lessonType,
       'lesson_date': instance.lessonDate,
       'durationon': instance.duration,
     };

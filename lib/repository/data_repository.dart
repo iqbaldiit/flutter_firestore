@@ -5,7 +5,7 @@ import '../models/pets.dart';
 class DataRepository {
   // 1
   final CollectionReference collection =
-      FirebaseFirestore.instance.collection('schools');
+      FirebaseFirestore.instance.collection('pets');
   // 2
   Stream<QuerySnapshot> getStream() {
     var abc = collection.snapshots();
